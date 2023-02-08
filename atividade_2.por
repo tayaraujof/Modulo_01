@@ -5,7 +5,7 @@ programa
 	
 	real idade1, idade2, idade3, idade4, media
 	
-		escreva("iforme a idade 1: ")
+		escreva("informe a idade 1: ")
 		leia (idade1)
 		escreva("informe a idade 2: ")
 		leia (idade2)
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 357; 
+ * @POSICAO-CURSOR = 97; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
