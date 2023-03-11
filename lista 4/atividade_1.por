@@ -22,7 +22,7 @@ programa
     		contadorTentativas++
 
 		}enquanto(contadorTentativas < 3)	
-		escreva("Sua conta foi bloqueada!")
+			escreva("Sua conta foi bloqueada!")
 		
 
 	}
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 466; 
+ * @POSICAO-CURSOR = 429; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
